@@ -1,0 +1,44 @@
+.grow:hover
+{
+        -webkit-transform: scale(1.0) !important;
+        -ms-transform: scale(1.0) !important;
+        transform: scale(1.0) !important;
+}
+.color:hover
+{
+        background:#8B0000 !important;
+        color: white !important;
+        font-weight: bold !important;
+}
+.fade
+{
+        opacity:0.5;
+}
+.fade:hover
+{
+        opacity:1.5;
+}
+
+.circle:hover
+{
+        border-radius:15%;
+}
+.threed:hover
+{
+        box-shadow:
+                1px 1px black,
+                2px 2px black,
+                3px 3px white;
+        -webkit-transform: translateX(-3px);
+        transform: translateX(-3px);
+}
+.border:hover
+{
+        box-shadow: inset 0 0 0 25px #53a7ea;
+}
+
+li {
+        font-weight: bold !important;
+        font-variant: small-caps !important;
+        font-size:22px !important;
+}

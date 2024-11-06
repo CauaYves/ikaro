@@ -1,0 +1,29 @@
+blockquote {
+    border: 3px solid #bfadad;
+    background-color: #f9ffed;
+    padding: 10px;
+    font-size: 11px;
+    color: #a48ead;
+    text-align: center;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    box-shadow: inset 0 0 12px #737070, 0 0 5px #6b0505;
+    /* width: 1250px !important; */
+}
+
+.espaco_bottom {
+    padding-bottom: 25px !important;
+}
+
+.border-color-silver {
+    border-color: silver !important;
+}
+
+.text_shadow {
+    box-shadow: 1px 1px 1px 1px black !important;
+}
+
+.fontSize {
+    font-size: small;
+}
